@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP12F1572 -DL -O11111114 -fo32 -N"C:\Users\comp1\Documents\pic_projects_2017\pic12f1572 music box\pic12f1572_music_box.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16_Enh\" -SP"C:\Users\comp1\Documents\pic_projects_2017\pic12f1572 music box\" -IP"C:\Users\comp1\Documents\pic_projects_2017\pic12f1572 music box\" "main.c" "tuningwords.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 240 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	songdata.h
+hint: 0	1004	interrupt handler (timer1interrupt at 0x0004)	main.c
+diagnostics: 301	123	Compiled Successfully	main.c
+diagnostics: 0	122	Compilation Started	tuningwords.c
+diagnostics: 12	123	Compiled Successfully	tuningwords.c
+diagnostics: 0	127	All files Compiled in 94 ms	 
+hint: 0	1144	Used RAM (bytes): 11 (5%)  Free RAM (bytes): 229 (95%)	Used RAM (bytes): 11 (5%)  Free RAM (bytes): 229 (95%)
+hint: 0	1144	Used ROM (program words): 1444 (71%)  Free ROM (program words): 604 (29%)	Used ROM (program words): 1444 (71%)  Free ROM (program words): 604 (29%)
+diagnostics: 0	125	Project Linked Successfully	pic12f1572_music_box.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'pic12f1572_music_box.mcppi' completed: 156 ms	 
+diagnostics: 0	103	Finished successfully: 26 Nov 2017, 16:19:59	pic12f1572_music_box.mcppi
