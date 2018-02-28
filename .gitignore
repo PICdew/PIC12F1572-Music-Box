@@ -1,3 +1,13 @@
+# other files
+*.asm
+*.cp
+*.mcl
+*.bmk
+*.brk
+*.cfg
+*.log
+*.mcppi
+
 # Prerequisites
 *.d
 
